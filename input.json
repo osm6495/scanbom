@@ -1,0 +1,12 @@
+{
+  "packages": [ 
+    {
+      "name": "lodash",
+      "version": "4.0.0"
+    },
+    {
+      "name": "mongoose",
+      "version": "8.2.3"
+    }
+  ]
+}
