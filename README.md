@@ -14,7 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.comosm6495/scanbom/">
+  <a href="https://github.com/osm6495/scanbom/">
+    <img src="resources/logo.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">ScanBOM</h3>
@@ -22,11 +23,11 @@
   <p align="center">
     A CLI tool to parses SBOM files and scan all dependencies with Semgrep
     <br />
-    <a href="https://github.comosm6495/scanbom/">View Demo</a>
+    <a href="https://github.com/osm6495/scanbom/">View Demo</a>
     ·
-    <a href="https://github.comosm6495/scanbom/issues">Report Bug</a>
+    <a href="https://github.com/osm6495/scanbom/issues">Report Bug</a>
     ·
-    <a href="https://github.comosm6495/scanbom/issues">Request Feature</a>
+    <a href="https://github.com/osm6495/scanbom/issues">Request Feature</a>
   </p>
 </div>
 
